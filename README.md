@@ -1,0 +1,2 @@
+# NuxtParamandRoutes
+Created with CodeSandbox
